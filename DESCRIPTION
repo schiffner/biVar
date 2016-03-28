@@ -1,0 +1,15 @@
+Package: biVar
+Version: 0.1-3
+Date: 2012-02-02
+Title: Bias-Variance Analysis of the Misclassification Rate
+Authors@R: c(person("Schiffner", "Julia", role = c("aut", "cre"),
+    email = "schiffner@math.uni-duesseldorf.de"))
+Author: Julia Schiffner [aut, cre]
+Maintainer: Julia Schiffner <schiffner@math.uni-duesseldorf.de>
+URL: https://github.com/schiffner/biVar
+Depends:
+    R (>= 2.10.0)
+Description: Calculates the bias-variance decomposition of the misclassification
+    rate.
+License: GPL (>=2)
+RoxygenNote: 5.0.1
